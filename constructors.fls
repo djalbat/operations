@@ -4,11 +4,10 @@ Variable s:String
 Variable n:ℕ
 Variable l:ℕ
 
-Constructor empty()
+Constructor empty():Operation
+Constructor insert(ℕ, String):Operation
+Constructor delete(ℕ,ℕ):Operation
+
 Constructor empty()(String):String
-
-Constructor insert(ℕ, String)
 Constructor insert(n,t)(String):String
-
-Constructor delete(ℕ,ℕ)
 Constructor delete(n,l)(String):String
