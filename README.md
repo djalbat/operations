@@ -1,6 +1,6 @@
 # Operational Transformations
 
-Operational transformations for [Occam](https://occam.science).
+Operations for [Occam](https://occam.science).
 
 ## Contact
 
