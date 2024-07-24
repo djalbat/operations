@@ -1,4 +1,4 @@
-# Operational Transformations
+# Operations
 
 Operations for [Occam](https://occam.science).
 
