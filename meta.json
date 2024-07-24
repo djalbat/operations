@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0",
+  "version": "2.0.1",
   "repository": "https://github.com/djalbat/operations",
   "dependencies": {
-    "arithmetic": "0.0",
+    "arithmetic": "1.0",
     "numbers": "0.0",
     "strings": "0.0",
     "equality": "0.0",
