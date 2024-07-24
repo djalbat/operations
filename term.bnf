@@ -2,8 +2,6 @@
 
                       term  ::=  argument<NO_WHITESPACE>"(" argument ")"
 
-                              |  "(" argument ")"
-
                               |  operation 
 
                               ;
