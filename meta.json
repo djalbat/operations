@@ -1,11 +1,11 @@
 {
-  "version": "0.0.1",
+  "version": "1.0.0",
   "repository": "https://github.com/djalbat/operations",
   "dependencies": {
-    "arithmetic": "2.0",
-    "numbers": "2.0",
-    "strings": "0.0",
-    "equality": "1.0",
-    "inequality": "1.0"
+    "arithmetic": "3.0",
+    "numbers": "3.0",
+    "strings": "1.0",
+    "equality": "3.0",
+    "inequality": "3.0"
   }
 }
