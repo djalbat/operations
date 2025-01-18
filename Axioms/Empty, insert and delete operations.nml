@@ -4,10 +4,8 @@ Variable s:String
 Variable n:ℕ
 Variable l:ℕ
 
-###
 Axiom (EmptyOperation)
   empty()(s) = s
-###
 
 Axiom (InsertOperation)
   Suppose
