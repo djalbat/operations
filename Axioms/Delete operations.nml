@@ -1,0 +1,9 @@
+Variable n:ℕ
+Variable l:ℕ
+Variable s:String
+
+Axiom (DeleteOperation)
+  Suppose
+    (n + l) ⩽ |s|
+  Then
+    delete(n,l)(s) = s[...n] + s[(n + l)...]

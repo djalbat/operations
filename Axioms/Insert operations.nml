@@ -1,0 +1,10 @@
+Variable n:ℕ
+Variable l:ℕ
+Variable s:String
+Variable t:String
+
+Axiom (InsertOperation)
+  Suppose
+    (n + l) ⩽ |s|
+  Then
+    insert(n,t)(s) = s[...n] + t + s[n...]

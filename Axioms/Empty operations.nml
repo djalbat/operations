@@ -1,0 +1,4 @@
+Variable s:String
+
+Axiom (EmptyOperation)
+  empty()(s) = s
