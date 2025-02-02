@@ -1,13 +1,10 @@
 
 
-                      term  ::=  unaryFunction
+                      term  ::=  argument<NO_WHITESPACE>"(" argument ")"
 
                               |  operation 
 
                               ;
-
-
-             unaryFunction  ::=  argument<NO_WHITESPACE>"(" argument ")" ;
 
 
                  operation  ::=  "empty"<NO_WHITESPACE>"("<NO_WHITESPACE>")"
