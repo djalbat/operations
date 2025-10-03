@@ -1,10 +1,10 @@
 
 
-                      term  ::=  "empty"<NO_WHITESPACE>"("")"
+                      term  ::=  "𝘦𝘮𝘱𝘵𝘺"<NO_WHITESPACE>"("")"
 
-                              |  "insert"<NO_WHITESPACE>"(" argument "," argument ")"
+                              |  "𝘪𝘯𝘴𝘦𝘳𝘵"<NO_WHITESPACE>"(" argument "," argument ")"
 
-                              |  "delete"<NO_WHITESPACE>"(" argument "," argument ")" 
+                              |  "𝘥𝘦𝘭𝘦𝘵𝘦"<NO_WHITESPACE>"(" argument "," argument ")" 
 
                               ;
 

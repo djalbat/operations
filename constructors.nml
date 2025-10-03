@@ -1,5 +1,5 @@
-Constructor Operation(String):String
+Constructor 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻(𝗦𝘁𝗿𝗶𝗻𝗴):𝗦𝘁𝗿𝗶𝗻𝗴
 
-Constructor empty():Operation
-Constructor delete(ℕ,ℕ):Operation
-Constructor insert(ℕ,String):Operation
+Constructor 𝘦𝘮𝘱𝘵𝘺():𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻
+Constructor 𝘥𝘦𝘭𝘦𝘵𝘦(ℕ,ℕ):𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻
+Constructor 𝘪𝘯𝘴𝘦𝘳𝘵(ℕ,𝗦𝘁𝗿𝗶𝗻𝗴):𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻
