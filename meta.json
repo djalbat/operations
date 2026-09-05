@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "0.0.0",
   "repository": "https://github.com/djalbat/operations",
   "dependencies": {
     "numbers": "0.0",
@@ -7,6 +7,6 @@
     "equality": "0.0",
     "functions": "0.0",
     "inequality": "0.0",
-    "arithmetic": "1.0"
+    "arithmetic": "0.0"
   }
 }
